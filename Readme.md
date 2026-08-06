@@ -46,6 +46,7 @@
 </td>
 <td width="40%" valign="top">
 
+>I 'm <br>
 > Driven Cloud Computing undergraduate at GLA University with hands-on experience in full-stack development, and cloud technologies. Skilled in MERN stack, Docker, Jenkins, and AWS, with experience building scalable applications and CI/CD pipelines. Strong problem-solving abilities with 300+ LeetCode problems solved and a passion for Software Development, Cloud Engineering, and DevOps.
 </td>
 </tr>
