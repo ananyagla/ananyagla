@@ -12,9 +12,9 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ananyagla&label=Profile+Views&color=38BDF8&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/ananyagla?label=Followers&style=flat-square&color=38BDF8" alt="followers"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-38BDF8?style=flat-square" alt="status"/>
+  <img src="https://komarev.com/ghpvc/?username=ananyagla&label=Profile+Views&color=F4C2C2&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/ananyagla?label=Followers&style=flat-square&color=F4C2C2" alt="followers"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-F4C2C2?style=flat-square" alt="status"/>
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=38BDF8" alt="about me"/>
+  <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=F4C2C2" alt="about me"/>
 </div>
 
 <br/>
@@ -31,17 +31,17 @@
 <tr>
 <td width="60%" valign="top">
 
-<img src="https://cdn.simpleicons.org/googlecloud/38BDF8" width="18"/> &nbsp;**Focus:** Cloud Computing & Virtualization
+<img src="https://cdn.simpleicons.org/googlecloud/F4C2C2" width="18"/> &nbsp;**Focus:** Cloud Computing & Virtualization
 <br/><br/>
-<img src="https://img.shields.io/badge/-A-38BDF8?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> &nbsp;**Track:** Aspiring Cloud Engineer — Infrastructure & Automation
+<img src="https://img.shields.io/badge/-A-F4C2C2?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> &nbsp;**Track:** Aspiring Cloud Engineer — Infrastructure & Automation
 <br/><br/>
-<img src="https://cdn.simpleicons.org/googlescholar/38BDF8" width="18"/> &nbsp;**Education:** B.Tech CS, GLA University, Mathura
+<img src="https://cdn.simpleicons.org/googlescholar/F4C2C2" width="18"/> &nbsp;**Education:** B.Tech CS, GLA University, Mathura
 <br/><br/>
-<img src="https://cdn.simpleicons.org/rocket/38BDF8" width="18"/> &nbsp;**Building:** Infrastructure as Code & automation scripts
+<img src="https://cdn.simpleicons.org/rocket/F4C2C2" width="18"/> &nbsp;**Building:** Infrastructure as Code & automation scripts
 <br/><br/>
-<img src="https://cdn.simpleicons.org/target/38BDF8" width="18"/> &nbsp;**Learning:** Advanced AWS & GCP architecture patterns
+<img src="https://cdn.simpleicons.org/target/F4C2C2" width="18"/> &nbsp;**Learning:** Advanced AWS & GCP architecture patterns
 <br/><br/>
-<img src="https://cdn.simpleicons.org/leetcode/38BDF8" width="18"/> &nbsp;**Practice:** 300+ problems solved, sharpening DSA daily
+<img src="https://cdn.simpleicons.org/leetcode/F4C2C2" width="18"/> &nbsp;**Practice:** 300+ problems solved, sharpening DSA daily
 
 </td>
 <td width="40%" valign="top">
@@ -54,13 +54,13 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub_Metrics-0D1117?style=for-the-badge&logo=githubactions&logoColor=38BDF8" alt="metrics"/>
+  <img src="https://img.shields.io/badge/GitHub_Metrics-0D1117?style=for-the-badge&logo=githubactions&logoColor=F4C2C2" alt="metrics"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ananyagla&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=ananyagla&theme=tokyonight&hide_border=true&background=0D1117&stroke=F4C2C2&ring=F4C2C2&fire=F4C2C2&currStreakLabel=F4C2C2" alt="GitHub Streak"/>
 </div>
 
 <p align="center"><sub>Two widgets kept intentionally — the most stable, widely-used stat cards that stay live long-term.</sub></p>
@@ -68,7 +68,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=38BDF8" alt="tech stack"/>
+  <img src="https://img.shields.io/badge/Tech_Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=F4C2C2" alt="tech stack"/>
 </div>
 
 <div align="center">
@@ -93,11 +93,11 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/What_I'm_Building-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=38BDF8" alt="projects"/>
+  <img src="https://img.shields.io/badge/What_I'm_Building-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=F4C2C2" alt="projects"/>
 </div>
 <br/>
 
-| <img src="https://cdn.simpleicons.org/terraform/38BDF8" width="16"/> Cloud Projects | <img src="https://cdn.simpleicons.org/react/38BDF8" width="16"/> Web Projects | <img src="https://cdn.simpleicons.org/githubactions/38BDF8" width="16"/> DevOps Experiments | <img src="https://cdn.simpleicons.org/leetcode/38BDF8" width="16"/> Algorithms |
+| <img src="https://cdn.simpleicons.org/terraform/F4C2C2" width="16"/> Cloud Projects | <img src="https://cdn.simpleicons.org/react/F4C2C2" width="16"/> Web Projects | <img src="https://cdn.simpleicons.org/githubactions/F4C2C2" width="16"/> DevOps Experiments | <img src="https://cdn.simpleicons.org/leetcode/F4C2C2" width="16"/> Algorithms |
 |:---:|:---:|:---:|:---:|
 | Infrastructure as Code, Automation Scripts | Full-stack apps with modern stacks | Git workflows, CI/CD pipelines | DSA practice in Java & Python |
 
@@ -106,7 +106,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Coding_Profiles-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" alt="coding profiles"/>
+  <img src="https://img.shields.io/badge/Coding_Profiles-0D1117?style=for-the-badge&logo=leetcode&logoColor=F4C2C2" alt="coding profiles"/>
 </div>
 <br/>
 
@@ -120,26 +120,26 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Achievements_%26_Certifications-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" alt="achievements"/>
+  <img src="https://img.shields.io/badge/Achievements_%26_Certifications-0D1117?style=for-the-badge&logo=googlecloud&logoColor=F4C2C2" alt="achievements"/>
 </div>
 <br/>
 
-<img src="https://cdn.simpleicons.org/googlecloud/38BDF8" width="16"/> &nbsp;Top 15 Teams out of 120 — **Smart India Hackathon 2025** (Internal Round)
+<img src="https://cdn.simpleicons.org/googlecloud/F4C2C2" width="16"/> &nbsp;Top 15 Teams out of 120 — **Smart India Hackathon 2025** (Internal Round)
 <br/><br/>
-<img src="https://cdn.simpleicons.org/amazonaws/38BDF8" width="16"/> &nbsp;**AWS Academy Graduate** — Cloud Architecting
+<img src="https://cdn.simpleicons.org/amazonaws/F4C2C2" width="16"/> &nbsp;**AWS Academy Graduate** — Cloud Architecting
 <br/><br/>
-<img src="https://cdn.simpleicons.org/oracle/38BDF8" width="16"/> &nbsp;**Oracle Cloud Infrastructure (OCI)** Foundations Associate
+<img src="https://cdn.simpleicons.org/oracle/F4C2C2" width="16"/> &nbsp;**Oracle Cloud Infrastructure (OCI)** Foundations Associate
 <br/><br/>
-<img src="https://cdn.simpleicons.org/infosys/38BDF8" width="16"/> &nbsp;**Infosys Springboard** — Cloud Computing
+<img src="https://cdn.simpleicons.org/infosys/F4C2C2" width="16"/> &nbsp;**Infosys Springboard** — Cloud Computing
 <br/><br/>
-<img src="https://cdn.simpleicons.org/cisco/38BDF8" width="16"/> &nbsp;**Cisco JavaScript Essentials**
+<img src="https://cdn.simpleicons.org/cisco/F4C2C2" width="16"/> &nbsp;**Cisco JavaScript Essentials**
 <br/><br/>
-<img src="https://cdn.simpleicons.org/ibm/38BDF8" width="16"/> &nbsp;IBM Workshops on **Cloud Virtualization & DevOps**
+<img src="https://cdn.simpleicons.org/ibm/F4C2C2" width="16"/> &nbsp;IBM Workshops on **Cloud Virtualization & DevOps**
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Coding_Vibes-0D1117?style=for-the-badge&logo=giphy&logoColor=38BDF8" alt="vibes"/>
+  <img src="https://img.shields.io/badge/Coding_Vibes-0D1117?style=for-the-badge&logo=giphy&logoColor=F4C2C2" alt="vibes"/>
 </div>
 <br/>
 
@@ -171,7 +171,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linktree&logoColor=38BDF8" alt="connect"/>
+  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linktree&logoColor=F4C2C2" alt="connect"/>
 </div>
 <br/>
 
@@ -189,6 +189,6 @@
 
 <sub><i>"Stay curious. Keep building. Cloud your limits."</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=100&section=footer" width="100%"/>
 
 </div>
