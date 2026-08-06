@@ -126,15 +126,16 @@
 
 <img src="https://cdn.simpleicons.org/googlecloud/F4C2C2" width="16"/> &nbsp;Top 15 Teams out of 120 — **Smart India Hackathon 2025** (Internal Round)
 <br/><br/>
-<img src="https://cdn.simpleicons.org/amazonaws/F4C2C2" width="16"/> &nbsp;**AWS Academy Graduate** — Cloud Architecting
-<br/><br/>
-<img src="https://cdn.simpleicons.org/oracle/F4C2C2" width="16"/> &nbsp;**Oracle Cloud Infrastructure (OCI)** Foundations Associate
-<br/><br/>
 <img src="https://cdn.simpleicons.org/infosys/F4C2C2" width="16"/> &nbsp;**Infosys Springboard** — Cloud Computing
 <br/><br/>
 <img src="https://cdn.simpleicons.org/cisco/F4C2C2" width="16"/> &nbsp;**Cisco JavaScript Essentials**
 <br/><br/>
-<img src="https://cdn.simpleicons.org/ibm/F4C2C2" width="16"/> &nbsp;IBM Workshops on **Cloud Virtualization & DevOps**
+<img src="https://img.shields.io/badge/-I-F4C2C2?style=flat-square&logo=amazonaws&logoColor=white" height="16"/>  &nbsp;IBM Workshops on **Cloud Virtualization & DevOps**
+<br/><br/>
+<img src="https://img.shields.io/badge/-A-F4C2C2?style=flat-square&logo=amazonaws&logoColor=white" height="16"/>  &nbsp;**AWS Academy Graduate** — Cloud Architecting
+<br/><br/>
+<img src="https://img.shields.io/badge/-O-F4C2C2?style=flat-square&logo=amazonaws&logoColor=white" height="16"/>  &nbsp;**Oracle Cloud Infrastructure (OCI)** Foundations Associate
+
 
 ---
 
@@ -179,7 +180,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chaurasia-60a27b2aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyagla)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyachaurasia74@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya.chaurasia_cs.ccv23@gla.ac.in)
 
 </div>
 
