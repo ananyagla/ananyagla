@@ -1,61 +1,191 @@
-# 👩‍💻 Ananya Chaurasia
+<div align="center">
 
-🎓 Student at **GLA University**  
-☁️ Aspiring **Cloud Engineer** | Specializing in **Cloud Infrastructure & Automation**  
-💻 Passionate about **Cloud Computing**, **Virtualization**, and Full-Stack Development  
+<img src="https://raw.githubusercontent.com/ananyagla/ananyagla/main/hero.png" width="100%" alt="hero banner"/>
 
----
+<br/>
 
-## 🌐 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ananya+Chaurasia;Aspiring+Cloud+Engineer;Cloud+Infrastructure+%26+Automation;Full-Stack+%2B+Cloud+Enthusiast" alt="Typing SVG" />
+</a>
 
-Hi there! I'm Ananya Chaurasia — a Computer Science undergraduate at GLA University, Mathura, currently specializing in **Cloud Computing and Virtualization**.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ananyagla&label=Profile+Views&color=38BDF8&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/ananyagla?label=Followers&style=flat-square&color=38BDF8" alt="followers"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-38BDF8?style=flat-square" alt="status"/>
+</p>
 
-🔍 I'm deeply curious about tech and love bridging the gap between theory and real-world application. From crafting scalable cloud architectures to optimizing virtual machines, I thrive in the cloud world. I'm always learning, building, and growing. 🚀
+</div>
 
----
+<br/>
 
-## 🧰 Languages & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/About_Me-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=38BDF8" alt="about me"/>
+</div>
 
-| 💻 Programming | 🌐 Web | ☁️ Cloud | 🛢️ Databases | ⚙️ Tools |
-|----------------|---------|----------|--------------|----------|
-| Java | HTML | AWS | MongoDB | Git |
-| Python | CSS | GCP | MySQL | GitHub |
-| Node.js | JavaScript | | | |
+<br/>
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 📂 GitHub Repositories
+<img src="https://cdn.simpleicons.org/googlecloud/38BDF8" width="18"/> &nbsp;**Focus:** Cloud Computing & Virtualization
+<br/><br/>
+<img src="https://img.shields.io/badge/-A-38BDF8?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> &nbsp;**Track:** Aspiring Cloud Engineer — Infrastructure & Automation
+<br/><br/>
+<img src="https://cdn.simpleicons.org/googlescholar/38BDF8" width="18"/> &nbsp;**Education:** B.Tech CS, GLA University, Mathura
+<br/><br/>
+<img src="https://cdn.simpleicons.org/rocket/38BDF8" width="18"/> &nbsp;**Building:** Infrastructure as Code & automation scripts
+<br/><br/>
+<img src="https://cdn.simpleicons.org/target/38BDF8" width="18"/> &nbsp;**Learning:** Advanced AWS & GCP architecture patterns
+<br/><br/>
+<img src="https://cdn.simpleicons.org/leetcode/38BDF8" width="18"/> &nbsp;**Practice:** 300+ problems solved, sharpening DSA daily
 
-Here’s what I’m building, learning, and exploring:
+</td>
+<td width="40%" valign="top">
 
-- 🚀 Cloud Projects: Infrastructure as Code, Automation Scripts  
-- 🌍 Web Projects: Frontend & Backend using modern stacks  
-- 🔧 DevOps Experiments: Git workflows, CI/CD pipelines  
-- 🧠 Algorithms: Practicing DSA in Java & Python
-
-> 🔗 *Check out my pinned repos to see my top work!*
-
----
-
-## 🌈 Aesthetic Coding Vibes
-
-| ![gif1](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) | ![gif2](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif) |
-|:--:|:--:|
-| *Coding with heart* ❤️ | *Cloud-powered coding* ☁️ |
-
-| ![gif3](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) | ![gif4](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
-|:--:|:--:|
-| *Debugging like a ninja* 🐞 | *Coffee + Code = ❤️* ☕💻 |
-
----
-
-## 📫 Let’s Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ananya-chaurasia-60a27b2aa/) *(add your profile URL)*
-- 🧑‍💻 [GitHub](https://www.linkedin.com/in/ananya-chaurasia-60a27b2aa/) *(add your GitHub profile URL)*
-- 📬 Email: *ananyachaurasia74@gmail.com*
+> Driven Cloud Computing undergraduate at GLA University with hands-on experience in full-stack development, and cloud technologies. Skilled in MERN stack, Docker, Jenkins, and AWS, with experience building scalable applications and CI/CD pipelines. Strong problem-solving abilities with 300+ LeetCode problems solved and a passion for Software Development, Cloud Engineering, and DevOps.
+</td>
+</tr>
+</table>
 
 ---
 
-> 💡 *“Stay curious. Keep building. Cloud your limits.”* ☁️
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub_Metrics-0D1117?style=for-the-badge&logo=githubactions&logoColor=38BDF8" alt="metrics"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=ananyagla&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+</div>
+
+<p align="center"><sub>Two widgets kept intentionally — the most stable, widely-used stat cards that stay live long-term.</sub></p>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=38BDF8" alt="tech stack"/>
+</div>
+
+<div align="center">
+
+<br/>**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" /><br/><br/>
+
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" /><br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br/><br/>
+
+**Cloud Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" /><br/><br/>
+
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman,vscode,linux&theme=dark" /><br/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/What_I'm_Building-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=38BDF8" alt="projects"/>
+</div>
+<br/>
+
+| <img src="https://cdn.simpleicons.org/terraform/38BDF8" width="16"/> Cloud Projects | <img src="https://cdn.simpleicons.org/react/38BDF8" width="16"/> Web Projects | <img src="https://cdn.simpleicons.org/githubactions/38BDF8" width="16"/> DevOps Experiments | <img src="https://cdn.simpleicons.org/leetcode/38BDF8" width="16"/> Algorithms |
+|:---:|:---:|:---:|:---:|
+| Infrastructure as Code, Automation Scripts | Full-stack apps with modern stacks | Git workflows, CI/CD pipelines | DSA practice in Java & Python |
+
+<p align="center"><sub>Check out pinned repositories for a closer look.</sub></p>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding_Profiles-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" alt="coding profiles"/>
+</div>
+<br/>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ananya_Chaurasia/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ananyacha92c2?tab=activity)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Achievements_%26_Certifications-0D1117?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" alt="achievements"/>
+</div>
+<br/>
+
+<img src="https://cdn.simpleicons.org/googlecloud/38BDF8" width="16"/> &nbsp;Top 15 Teams out of 120 — **Smart India Hackathon 2025** (Internal Round)
+<br/><br/>
+<img src="https://cdn.simpleicons.org/amazonaws/38BDF8" width="16"/> &nbsp;**AWS Academy Graduate** — Cloud Architecting
+<br/><br/>
+<img src="https://cdn.simpleicons.org/oracle/38BDF8" width="16"/> &nbsp;**Oracle Cloud Infrastructure (OCI)** Foundations Associate
+<br/><br/>
+<img src="https://cdn.simpleicons.org/infosys/38BDF8" width="16"/> &nbsp;**Infosys Springboard** — Cloud Computing
+<br/><br/>
+<img src="https://cdn.simpleicons.org/cisco/38BDF8" width="16"/> &nbsp;**Cisco JavaScript Essentials**
+<br/><br/>
+<img src="https://cdn.simpleicons.org/ibm/38BDF8" width="16"/> &nbsp;IBM Workshops on **Cloud Virtualization & DevOps**
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding_Vibes-0D1117?style=for-the-badge&logo=giphy&logoColor=38BDF8" alt="vibes"/>
+</div>
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:10px;"/><br/>
+      <sub><b>Coding with Heart</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:10px;"/><br/>
+      <sub><b>Cloud-Powered Coding</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:10px;"/><br/>
+      <sub><b>Debugging Like a Pro</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="220px" style="object-fit:cover;border-radius:10px;"/><br/>
+      <sub><b>Coffee + Code</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linktree&logoColor=38BDF8" alt="connect"/>
+</div>
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-chaurasia-60a27b2aa/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyagla)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyachaurasia74@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>"Stay curious. Keep building. Cloud your limits."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%"/>
+
+</div>
