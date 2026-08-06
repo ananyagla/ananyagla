@@ -5,7 +5,10 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ananya+Chaurasia;Aspiring+Cloud+Engineer;Cloud+Infrastructure+%26+Virtualisation;Backend And+%2B+Cloud+Enthusiast" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ananya+Chaurasia;Aspiring+Cloud+Engineer;Cloud+Infrastructure+%26+Virtualization;Backend+Developer+%7C+Cloud+Computing"
+    alt="Typing SVG"
+  />
 </a>
 
 <p>
